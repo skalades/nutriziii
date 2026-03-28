@@ -1,0 +1,5 @@
+{
+  "name": "NutriPlan MBG",
+  "description": "Aplikasi perencana menu untuk ahli gizi yang sesuai dengan Petunjuk Teknis Makan Bergizi Gratis (MBG), mencakup perhitungan kalori, protein, dan zat gizi mikro untuk berbagai jenjang sekolah.",
+  "requestFramePermissions": []
+}
